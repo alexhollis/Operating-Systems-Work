@@ -1,0 +1,708 @@
+First Test: Normal Constraints
+Malloc
+Allocated Mem Address = 0x7fb77b4a9010
+Allocated Mem Address = 0x7fb77b428010
+Allocated Mem Address = 0x7fb77b3a7010
+Allocated Mem Address = 0x7fb77b326010
+Allocated Mem Address = 0x7fb77a6b8010
+Allocated Mem Address = 0x7fb77b305010
+Allocated Mem Address = 0x7fb77a637010
+Allocated Mem Address = 0x7fb77a5b6010
+Allocated Mem Address = 0x7fb77a595010
+Allocated Mem Address = 0x7fb77a554010
+Allocated Mem Address = 0x7fb77a4d3010
+Allocated Mem Address = 0x7fb77a492010
+Allocated Mem Address = 0x7fb77a411010
+Allocated Mem Address = 0x7fb77a390010
+Allocated Mem Address = 0x7fb77a36f010
+Allocated Mem Address = 0x7fb77a2ee010
+Allocated Mem Address = 0x7fb77a2ad010
+Allocated Mem Address = 0x7fb77a26c010
+Allocated Mem Address = 0x7fb77a22b010
+Allocated Mem Address = 0x7fb77a1ea010
+Allocated Mem Address = 0x7fb77a169010
+Allocated Mem Address = 0x7fb77a0e8010
+Allocated Mem Address = 0x7fb77a0c7010
+Allocated Mem Address = 0x7fb77a046010
+Allocated Mem Address = 0x7fb779fc5010
+Allocated Mem Address = 0x7fb779f84010
+Allocated Mem Address = 0x7fb779f43010
+Allocated Mem Address = 0x7fb779f02010
+Allocated Mem Address = 0x7fb779e81010
+Allocated Mem Address = 0x7fb779e40010
+Allocated Mem Address = 0x7fb779dff010
+Allocated Mem Address = 0x7fb779dbe010
+Allocated Mem Address = 0x7fb779d3d010
+Allocated Mem Address = 0x7fb779cfc010
+Allocated Mem Address = 0x7fb779c7b010
+Allocated Mem Address = 0x7fb779c3a010
+Allocated Mem Address = 0x7fb779bb9010
+Allocated Mem Address = 0x7fb779b38010
+Allocated Mem Address = 0x7fb779af7010
+Allocated Mem Address = 0x7fb779a76010
+Allocated Mem Address = 0x7fb779a35010
+Allocated Mem Address = 0x7fb779a14010
+Allocated Mem Address = 0x7fb779993010
+Allocated Mem Address = 0x7fb779952010
+Allocated Mem Address = 0x7fb7798d1010
+Allocated Mem Address = 0xc60bb0
+Allocated Mem Address = 0xc70bc0
+Allocated Mem Address = 0xc80bd0
+Allocated Mem Address = 0xd00be0
+Allocated Mem Address = 0xd80bf0
+Allocated Mem Address = 0xdc0c00
+Allocated Mem Address = 0xe00c10
+Allocated Mem Address = 0xe80c20
+Allocated Mem Address = 0xec0c30
+Allocated Mem Address = 0xee0c40
+Allocated Mem Address = 0xc80bd0
+Allocated Mem Address = 0xf00c50
+Allocated Mem Address = 0xf80c60
+Allocated Mem Address = 0xfc0c70
+Allocated Mem Address = 0x1000c80
+Allocated Mem Address = 0x1040c90
+Allocated Mem Address = 0x1080ca0
+Allocated Mem Address = 0x10c0cb0
+Allocated Mem Address = 0x1100cc0
+Allocated Mem Address = 0x1180cd0
+Allocated Mem Address = 0x1200ce0
+Allocated Mem Address = 0x1280cf0
+Allocated Mem Address = 0x12c0d00
+Allocated Mem Address = 0x1300d10
+Allocated Mem Address = 0x1380f30
+Allocated Mem Address = 0x12c0d00
+Allocated Mem Address = 0x13c0f40
+Allocated Mem Address = 0xf80c60
+Allocated Mem Address = 0xd80bf0
+Allocated Mem Address = 0xd00be0
+Allocated Mem Address = 0x1400f50
+Allocated Mem Address = 0x1480f60
+Allocated Mem Address = 0x1500f70
+Allocated Mem Address = 0x1000c80
+Allocated Mem Address = 0x1580f80
+Allocated Mem Address = 0x1600f90
+Allocated Mem Address = 0x1680fa0
+Allocated Mem Address = 0xc80bd0
+Allocated Mem Address = 0x16c0fb0
+Allocated Mem Address = 0x1740fc0
+Allocated Mem Address = 0x17c0fd0
+Allocated Mem Address = 0x1840fe0
+Allocated Mem Address = 0xe00c10
+Allocated Mem Address = 0x18c0ff0
+Allocated Mem Address = 0x1941000
+Allocated Mem Address = 0x19c1010
+Allocated Mem Address = 0x1a41020
+Allocated Mem Address = 0x1ac1030
+Allocated Mem Address = 0x1b41040
+Allocated Mem Address = 0x1bc1050
+Allocated Mem Address = 0x1c41060
+Allocated Mem Address = 0x1cc1070
+Allocated Mem Address = 0x16c0fb0
+Allocated Mem Address = 0x1600f90
+Allocated Mem Address = 0xf00c50
+
+my_malloc
+Allocated Mem Address = 0x7fb7796f8010
+Allocated Mem Address = 0x7fb779778010
+Allocated Mem Address = 0x7fb7797f8010
+Allocated Mem Address = 0x7fb779878010
+Allocated Mem Address = 0x7fb779738010
+Allocated Mem Address = 0x7fb7798f8010
+Allocated Mem Address = 0x7fb779978010
+Allocated Mem Address = 0x7fb7799f8010
+Allocated Mem Address = 0x7fb779918010
+Allocated Mem Address = 0x7fb779938010
+Allocated Mem Address = 0x7fb779a78010
+Allocated Mem Address = 0x7fb779af8010
+Allocated Mem Address = 0x7fb779b78010
+Allocated Mem Address = 0x7fb779bf8010
+Allocated Mem Address = 0x7fb779b38010
+Allocated Mem Address = 0x7fb779c78010
+Allocated Mem Address = 0x7fb779cf8010
+Allocated Mem Address = 0x7fb779d38010
+Allocated Mem Address = 0x7fb779d78010
+Allocated Mem Address = 0x7fb779db8010
+Allocated Mem Address = 0x7fb779df8010
+Allocated Mem Address = 0x7fb779e78010
+Allocated Mem Address = 0x7fb779b58010
+Allocated Mem Address = 0x7fb779ef8010
+Allocated Mem Address = 0x7fb779f78010
+Allocated Mem Address = 0x7fb779ff8010
+Allocated Mem Address = 0x7fb77a038010
+Allocated Mem Address = 0x7fb77a078010
+Allocated Mem Address = 0x7fb77a0f8010
+Allocated Mem Address = 0x7fb77a0b8010
+Allocated Mem Address = 0x7fb77a178010
+Allocated Mem Address = 0x7fb77a1b8010
+Allocated Mem Address = 0x7fb77a1f8010
+Allocated Mem Address = 0x7fb77a278010
+Allocated Mem Address = 0x7fb77a2f8010
+Allocated Mem Address = 0x7fb77a2b8010
+Allocated Mem Address = 0x7fb77a378010
+Allocated Mem Address = 0x7fb77a3f8010
+Allocated Mem Address = 0x7fb77a478010
+Allocated Mem Address = 0x7fb77a4f8010
+Allocated Mem Address = 0x7fb77a4b8010
+Allocated Mem Address = 0x7fb77a578010
+Allocated Mem Address = 0x7fb77a5f8010
+Allocated Mem Address = 0x7fb77a5b8010
+Allocated Mem Address = 0x7fb77a678010
+Allocated Mem Address = 0x7fb77a598010
+Allocated Mem Address = 0x7fb77a5a8010
+Allocated Mem Address = 0x7fb779c78010
+Allocated Mem Address = 0x7fb77a2f8010
+Allocated Mem Address = 0x7fb779df8010
+Allocated Mem Address = 0x7fb779e38010
+Allocated Mem Address = 0x7fb779a78010
+Allocated Mem Address = 0x7fb779af8010
+Allocated Mem Address = 0x7fb77a578010
+Allocated Mem Address = 0x7fb779c78010
+Allocated Mem Address = 0x7fb77a3f8010
+Allocated Mem Address = 0x7fb77a478010
+Allocated Mem Address = 0x7fb779d38010
+Allocated Mem Address = 0x7fb779d78010
+Allocated Mem Address = 0x7fb779d98010
+Allocated Mem Address = 0x7fb77a178010
+Allocated Mem Address = 0x7fb7798f8010
+Allocated Mem Address = 0x7fb77a0b8010
+Allocated Mem Address = 0x7fb77a4f8010
+Allocated Mem Address = 0x7fb77a678010
+Allocated Mem Address = 0x7fb779f78010
+Allocated Mem Address = 0x7fb77a278010
+Allocated Mem Address = 0x7fb7796f8010
+Allocated Mem Address = 0x7fb77a378010
+Allocated Mem Address = 0x7fb77a1b8010
+Allocated Mem Address = 0x7fb77a078010
+Allocated Mem Address = 0x7fb779df8010
+Allocated Mem Address = 0x7fb77a2f8010
+Allocated Mem Address = 0x7fb77a1f8010
+Allocated Mem Address = 0x7fb77a278010
+Allocated Mem Address = 0x7fb779ef8010
+Allocated Mem Address = 0x7fb779b78010
+Allocated Mem Address = 0x7fb77a178010
+Allocated Mem Address = 0x7fb7796f8010
+Allocated Mem Address = 0x7fb779778010
+Allocated Mem Address = 0x7fb77a0f8010
+Allocated Mem Address = 0x7fb77a178010
+Allocated Mem Address = 0x7fb779af8010
+Allocated Mem Address = 0x7fb779978010
+Allocated Mem Address = 0x7fb77a178010
+Allocated Mem Address = 0x7fb779bf8010
+Allocated Mem Address = 0x7fb779d78010
+Allocated Mem Address = 0x7fb779ff8010
+Allocated Mem Address = 0x7fb779a78010
+Allocated Mem Address = 0x7fb779e38010
+Allocated Mem Address = 0x7fb77a478010
+Allocated Mem Address = 0x7fb779cf8010
+Allocated Mem Address = 0x7fb779d78010
+Allocated Mem Address = 0x7fb77a278010
+Allocated Mem Address = 0x7fb779cf8010
+Allocated Mem Address = 0x7fb779d38010
+Allocated Mem Address = 0x7fb7797f8010
+Allocated Mem Address = 0x7fb779838010
+Allocated Mem Address = 0x7fb77a5f8010
+Allocated Mem Address = 0x7fb77a578010
+
+
+
+Second Test: 50% Constraints
+Malloc
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xca2310
+Allocated Mem Address = 0xd22320
+Allocated Mem Address = 0xda2330
+Allocated Mem Address = 0xe22340
+Allocated Mem Address = 0xe62350
+Allocated Mem Address = 0xe82360
+Allocated Mem Address = 0xf02370
+Allocated Mem Address = 0xf82380
+Allocated Mem Address = 0xfa2390
+Allocated Mem Address = 0xfe23a0
+Allocated Mem Address = 0x10623b0
+Allocated Mem Address = 0x10a23c0
+Allocated Mem Address = 0x11223d0
+Allocated Mem Address = 0x11a23e0
+Allocated Mem Address = 0x11c23f0
+Allocated Mem Address = 0x1242400
+Allocated Mem Address = 0x1282410
+Allocated Mem Address = 0x12c2420
+Allocated Mem Address = 0x1302430
+Allocated Mem Address = 0x1342440
+Allocated Mem Address = 0x13c2450
+Allocated Mem Address = 0x1442460
+Allocated Mem Address = 0x11c23f0
+Allocated Mem Address = 0x1342440
+Allocated Mem Address = 0xfe23a0
+Allocated Mem Address = 0x1462470
+Allocated Mem Address = 0x10223b0
+Allocated Mem Address = 0x1282410
+Allocated Mem Address = 0x12c2420
+Allocated Mem Address = 0xe62350
+Allocated Mem Address = 0x11a23e0
+Allocated Mem Address = 0x10623c0
+Allocated Mem Address = 0xfa2390
+Allocated Mem Address = 0xf82380
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0x10723d0
+Allocated Mem Address = 0x1342440
+Allocated Mem Address = 0xca2310
+Allocated Mem Address = 0x11b23f0
+Allocated Mem Address = 0x11f2400
+Allocated Mem Address = 0x12c2420
+Allocated Mem Address = 0xe22340
+Allocated Mem Address = 0xe82360
+Allocated Mem Address = 0x10f23e0
+Allocated Mem Address = 0x1302430
+Allocated Mem Address = 0x1282410
+Allocated Mem Address = 0x10223b0
+Allocated Mem Address = 0x1232410
+Allocated Mem Address = 0xd22320
+Allocated Mem Address = 0xca2310
+Allocated Mem Address = 0xf02370
+Allocated Mem Address = 0x1442460
+Allocated Mem Address = 0xe22340
+Allocated Mem Address = 0xfe23a0
+Allocated Mem Address = 0xf82380
+Allocated Mem Address = 0xda2330
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0x10f23e0
+Allocated Mem Address = 0x1462470
+Allocated Mem Address = 0x13c2450
+Allocated Mem Address = 0x1232410
+Allocated Mem Address = 0x14a2480
+Allocated Mem Address = 0xda2330
+Allocated Mem Address = 0x1302430
+Allocated Mem Address = 0x14a2480
+Allocated Mem Address = 0xe62350
+Allocated Mem Address = 0xfc2390
+Allocated Mem Address = 0x1342440
+Allocated Mem Address = 0xd22320
+Allocated Mem Address = 0x10623c0
+Allocated Mem Address = 0x1272420
+Allocated Mem Address = 0xee2360
+Allocated Mem Address = 0x10023a0
+Allocated Mem Address = 0x1272420
+Allocated Mem Address = 0x11723f0
+Allocated Mem Address = 0x10e23d0
+Allocated Mem Address = 0x11b2400
+Allocated Mem Address = 0x12b2430
+Allocated Mem Address = 0x13c2450
+Allocated Mem Address = 0xda2330
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0x14e2490
+Allocated Mem Address = 0x15624a0
+Allocated Mem Address = 0x10e23d0
+Allocated Mem Address = 0x1232410
+Allocated Mem Address = 0xf62370
+Allocated Mem Address = 0xfe2380
+Allocated Mem Address = 0x1062390
+Allocated Mem Address = 0x1332440
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xda2330
+Allocated Mem Address = 0x11b2400
+Allocated Mem Address = 0x1442460
+Allocated Mem Address = 0xe22340
+Allocated Mem Address = 0x13b2450
+Allocated Mem Address = 0x12b2430
+Allocated Mem Address = 0xce2310
+Allocated Mem Address = 0xea2350
+Allocated Mem Address = 0xc62300
+
+my_malloc
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xd62300
+Allocated Mem Address = 0xde2300
+Allocated Mem Address = 0xca2300
+Allocated Mem Address = 0xe62300
+Allocated Mem Address = 0xee2300
+Allocated Mem Address = 0xf62300
+Allocated Mem Address = 0xe82300
+Allocated Mem Address = 0xea2300
+Allocated Mem Address = 0xfe2300
+Allocated Mem Address = 0x1062300
+Allocated Mem Address = 0x10e2300
+Allocated Mem Address = 0x1162300
+Allocated Mem Address = 0x10a2300
+Allocated Mem Address = 0x11e2300
+Allocated Mem Address = 0x1262300
+Allocated Mem Address = 0x12a2300
+Allocated Mem Address = 0x12e2300
+Allocated Mem Address = 0x1322300
+Allocated Mem Address = 0x1362300
+Allocated Mem Address = 0x13e2300
+Allocated Mem Address = 0x10c2300
+Allocated Mem Address = 0x11e2300
+Allocated Mem Address = 0x1362300
+Allocated Mem Address = 0xfe2300
+Allocated Mem Address = 0x1022300
+Allocated Mem Address = 0x1062300
+Allocated Mem Address = 0x10a2300
+Allocated Mem Address = 0x12a2300
+Allocated Mem Address = 0x12e2300
+Allocated Mem Address = 0xe62300
+Allocated Mem Address = 0x10a2300
+Allocated Mem Address = 0xe62300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0x1062300
+Allocated Mem Address = 0x10e2300
+Allocated Mem Address = 0x1362300
+Allocated Mem Address = 0x12a2300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0x11e2300
+Allocated Mem Address = 0x1222300
+Allocated Mem Address = 0xee2300
+Allocated Mem Address = 0x1162300
+Allocated Mem Address = 0x11e2300
+Allocated Mem Address = 0x1322300
+Allocated Mem Address = 0x1062300
+Allocated Mem Address = 0x1262300
+Allocated Mem Address = 0x1282300
+Allocated Mem Address = 0x1272300
+Allocated Mem Address = 0x10e2300
+Allocated Mem Address = 0xd62300
+Allocated Mem Address = 0x12e2300
+Allocated Mem Address = 0x11e2300
+Allocated Mem Address = 0xf62300
+Allocated Mem Address = 0xfe2300
+Allocated Mem Address = 0xfe2300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xde2300
+Allocated Mem Address = 0x13e2300
+Allocated Mem Address = 0x1422300
+Allocated Mem Address = 0xe62300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0x1322300
+Allocated Mem Address = 0xe62300
+Allocated Mem Address = 0x1362300
+Allocated Mem Address = 0x13e2300
+Allocated Mem Address = 0x1162300
+Allocated Mem Address = 0x1062300
+Allocated Mem Address = 0x10a2300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0x1062300
+Allocated Mem Address = 0x1262300
+Allocated Mem Address = 0xd62300
+Allocated Mem Address = 0x1062300
+Allocated Mem Address = 0x10e2300
+Allocated Mem Address = 0x12a2300
+Allocated Mem Address = 0xde2300
+Allocated Mem Address = 0x12e2300
+Allocated Mem Address = 0x13e2300
+Allocated Mem Address = 0x11e2300
+Allocated Mem Address = 0x12e2300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0x1062300
+Allocated Mem Address = 0xee2300
+Allocated Mem Address = 0x1362300
+Allocated Mem Address = 0xf62300
+Allocated Mem Address = 0xfe2300
+Allocated Mem Address = 0x1262300
+Allocated Mem Address = 0x11e2300
+Allocated Mem Address = 0x13e2300
+Allocated Mem Address = 0xe62300
+Allocated Mem Address = 0xea2300
+Allocated Mem Address = 0xe62300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xe62300
+Allocated Mem Address = 0xfe2300
+Allocated Mem Address = 0x1022300
+Allocated Mem Address = 0x1062300
+
+
+
+Third Test: 10% Constraints
+Malloc
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xca2310
+Allocated Mem Address = 0xd22320
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xd62330
+Allocated Mem Address = 0xc82310
+Allocated Mem Address = 0xd02320
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xd42330
+Allocated Mem Address = 0xd02320
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xd02320
+Allocated Mem Address = 0xc82310
+Allocated Mem Address = 0xd42330
+Allocated Mem Address = 0xd52340
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xd02320
+Allocated Mem Address = 0xd02320
+Allocated Mem Address = 0xc82310
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xd02320
+Allocated Mem Address = 0xc82310
+Allocated Mem Address = 0xd42330
+Allocated Mem Address = 0xd02320
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xd42330
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2310
+Allocated Mem Address = 0xd22320
+Allocated Mem Address = 0xce2310
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xd22320
+Allocated Mem Address = 0xce2310
+Allocated Mem Address = 0xd22320
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2310
+Allocated Mem Address = 0xd22320
+Allocated Mem Address = 0xd22320
+Allocated Mem Address = 0xce2310
+Allocated Mem Address = 0xd22320
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2310
+Allocated Mem Address = 0xd22320
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2310
+Allocated Mem Address = 0xce2310
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xd22320
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2310
+Allocated Mem Address = 0xd22320
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xd22320
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xd22320
+Allocated Mem Address = 0xce2310
+Allocated Mem Address = 0xd22320
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xd22320
+Allocated Mem Address = 0xce2310
+Allocated Mem Address = 0xd22320
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2310
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2310
+Allocated Mem Address = 0xce2310
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2310
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2310
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2310
+Allocated Mem Address = 0xce2310
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2310
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2310
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2310
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2310
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2310
+Allocated Mem Address = 0xce2310
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2310
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2310
+Allocated Mem Address = 0xce2310
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2310
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2310
+
+my_malloc
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xca2300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xc82300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xca2300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xca2300
+Allocated Mem Address = 0xc82300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xd22300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xca2300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xca2300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xca2300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xd22300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xd22300
+Allocated Mem Address = 0xd02300
+Allocated Mem Address = 0xd12300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xd22300
+Allocated Mem Address = 0xd22300
+Allocated Mem Address = 0xd42300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xca2300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xca2300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xc62300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xd22300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xce2300
+Allocated Mem Address = 0xc62300
+
+
+
+Starting Timing Trials with Normal Constraints:
+Trial 1
+Trial 2
+Trial 3
+Trial 4
+Trial 5
+Trial 6
+Trial 7
+Trial 8
+Trial 9
+Trial 10
+
+Results:
+Run	Malloc	My_Malloc
+1	150	211
+2	82	295
+3	75	218
+4	139	211
+5	148	197
+6	74	197
+7	132	192
+8	67	191
+9	65	190
+10	135	187
+
+Average for Malloc = 106.7 milliseconds 
+Average for my_malloc = 208.9 milliseconds 
+
+
+Starting Timing Trials with 50% Constraints:
+Trial 1
+Trial 2
+Trial 3
+Trial 4
+Trial 5
+Trial 6
+Trial 7
+Trial 8
+Trial 9
+Trial 10
+
+Results:
+Run	Malloc	My_Malloc
+1	180	232
+2	208	219
+3	188	223
+4	193	241
+5	183	303
+6	184	214
+7	183	212
+8	111	276
+9	200	255
+10	202	245
+
+Average for Malloc = 183.2 milliseconds 
+Average for my_malloc = 242 milliseconds 
+
+
+Starting Timing Trials with 10% Constraints:
+Trial 1
+Trial 2
+Trial 3
+Trial 4
+Trial 5
+Trial 6
+Trial 7
+Trial 8
+Trial 9
+Trial 10
+
+Results:
+Run	Malloc	My_Malloc
+1	1105	1051
+2	1157	1388
+3	1247	1153
+4	1095	783
+5	1364	968
+6	1194	1085
+7	947	675
+8	1157	793
+9	1055	534
+10	1137	1130
+
+Average for Malloc = 1145.8 milliseconds 
+Average for my_malloc = 956 milliseconds 
+
+
